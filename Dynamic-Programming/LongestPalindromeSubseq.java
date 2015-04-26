@@ -1,3 +1,19 @@
+/*
+    A teacher play a interesting game in the class. He select some n students of the class and make a row of these n students(where 0<=n<=1000). He makes the row randomly. He puts a very interesting question to the remaining student of the class. He told them to select some of the student out of the row such that when we make the string using the first character of their names ( consider only the first name) that string becomes a palindrome (Palindrome is a string which is equal to the reverse of itself for example ASPDPSA) of the longest length possible. The condition is that the string which is constructed using the first character of students should be constructed in a way that the characters should come in the same order in which the students are standing in the row. You have to answer the length of longest possible palindrome. Input/Output Specifications
+
+Input Specification:
+a list of students
+Output Specifications :
+length of longest palindrome constructed using the first characters of students in any sublist of the input student list
+
+Output:
+Enetr the string name array
+Bharti Bharat akash bahvya chand brijesh chetak arvind bhavna
+
+res=5 
+*/
+
+
 import java.util.*;
 
 
