@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class Circus {
+public class Circus{
 	
 	class Dimension implements Comparable<Dimension> {
 		int height;
